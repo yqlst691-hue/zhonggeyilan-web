@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.zhonggeyilan.com
+
+# Sitemaps
+Sitemap: https://www.zhonggeyilan.com/sitemap.xml
