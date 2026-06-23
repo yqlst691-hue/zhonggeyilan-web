@@ -1,4 +1,4 @@
-﻿# dependencies
+# dependencies
 /node_modules
 /.pnp
 .pnp.js
@@ -35,9 +35,12 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# 部署相关（包含敏感信息）
+# 部署相关（包含敏感信息，请勿提交到 Git）
 deploy.py
 deploy.sh
+deploy-config.json
+deploy.zip
+部署到腾讯云.bat
 out.zip
 nginx.conf
 check_content.py
