@@ -45,3 +45,6 @@ out.zip
 nginx.conf
 check_content.py
 check_server.py
+
+# 其他项目（不属于本仓库）
+ai-trends-app/
